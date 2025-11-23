@@ -28,6 +28,11 @@ GET/notes/{id} - 200 OK
 
 ![get_id](https://github.com/user-attachments/assets/23012272-36c9-432f-bacb-ae58710846ec)
 
+Testing Window:
+
+![Tests](https://github.com/user-attachments/assets/b2366e3a-8862-44d7-b931-dac1d3295e5d)
+
+
 
 
 
