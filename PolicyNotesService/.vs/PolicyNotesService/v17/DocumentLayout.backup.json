@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45960F67-52B3-47F8-8856-60A483DEFFF9}|..\\PolicyNotesService.IntegrationTests\\PolicyNotesService.IntegrationTests.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice.integrationtests\\policynotesintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice\\repositories\\policynotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|solutionrelative:repositories\\policynotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB555B6D-C21A-4341-9512-EA9B84DF021E}|..\\PolicyNotesService.UnitTests\\PolicyNotesService.UnitTests.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice.unittests\\policynotesserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice\\services\\policynotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|solutionrelative:services\\policynotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice\\repositories\\ipolicynotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|solutionrelative:repositories\\ipolicynotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice\\data\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|solutionrelative:data\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice\\models\\policynotecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|solutionrelative:models\\policynotecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|c:\\users\\adm\\onedrive\\desktop\\chubb training\\weekly_assignmentss\\policynotessolution\\policynotesservice\\models\\policynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06738027-1A60-3EDB-01ED-2DDF3F92F52D}|PolicyNotesService.csproj|solutionrelative:models\\policynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:23:45.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolicyNotesIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService.IntegrationTests\\PolicyNotesIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\PolicyNotesService.IntegrationTests\\PolicyNotesIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService.IntegrationTests\\PolicyNotesIntegrationTests.cs",
+              "RelativeToolTip": "..\\PolicyNotesService.IntegrationTests\\PolicyNotesIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:19:32.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyNotesServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService.UnitTests\\PolicyNotesServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "..\\PolicyNotesService.UnitTests\\PolicyNotesServiceUnitTests.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService.UnitTests\\PolicyNotesServiceUnitTests.cs",
+              "RelativeToolTip": "..\\PolicyNotesService.UnitTests\\PolicyNotesServiceUnitTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:18:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyNotesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Repositories\\PolicyNotesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PolicyNotesRepository.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Repositories\\PolicyNotesRepository.cs",
+              "RelativeToolTip": "Repositories\\PolicyNotesRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:17:14.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolicyNotesService.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Services\\PolicyNotesService.cs",
+              "RelativeDocumentMoniker": "Services\\PolicyNotesService.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Services\\PolicyNotesService.cs",
+              "RelativeToolTip": "Services\\PolicyNotesService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:17:28.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPolicyNotesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Repositories\\IPolicyNotesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPolicyNotesRepository.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Repositories\\IPolicyNotesRepository.cs",
+              "RelativeToolTip": "Repositories\\IPolicyNotesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:17:01.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Data\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Data\\NotesDbContext.cs",
+              "RelativeToolTip": "Data\\NotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:16:40.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolicyNoteCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Models\\PolicyNoteCreateDto.cs",
+              "RelativeDocumentMoniker": "Models\\PolicyNoteCreateDto.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Models\\PolicyNoteCreateDto.cs",
+              "RelativeToolTip": "Models\\PolicyNoteCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:16:25.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolicyNote.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Models\\PolicyNote.cs",
+              "RelativeDocumentMoniker": "Models\\PolicyNote.cs",
+              "ToolTip": "C:\\Users\\adm\\OneDrive\\Desktop\\CHUBB Training\\Weekly_Assignmentss\\PolicyNotesSolution\\PolicyNotesService\\Models\\PolicyNote.cs",
+              "RelativeToolTip": "Models\\PolicyNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:16:05.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
